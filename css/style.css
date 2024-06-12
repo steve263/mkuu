@@ -1,0 +1,25 @@
+body{
+    background-color: chocolate;
+}
+/*bootsrapgrid*/
+.one{
+    background-color: #0f5132;
+    height: 30vh;
+}
+.two{
+    background-color: #2c0b0e;
+    height: 30vh;
+}
+.three{
+    background-color: #6f42c1;
+    height: 30vh;
+}
+.four{
+    background-color: #58151c;
+    height: 30vh;
+}
+.five{
+    background-color: #dc3545;
+    height: 30vh;
+}
+
